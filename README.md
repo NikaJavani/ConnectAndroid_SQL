@@ -36,4 +36,5 @@
 
 ### - **Screenshots**
 
-> Add screenshots of the RatingApp interface here.
+> https://imgur.com/a/ZcA6gfA
+> https://imgur.com/a/ZcA6gfA
